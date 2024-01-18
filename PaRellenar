@@ -6,6 +6,16 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Primera modificacion</h1>
+    <table>
+        <tr>
+            <th>
+                Segunda modificacion
+            </th>
+            <td>
+                Menudo arte para modificar
+            </td>
+        </tr>
+    </table>
 </body>
 </html>
